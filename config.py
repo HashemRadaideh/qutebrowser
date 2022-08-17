@@ -248,3 +248,5 @@ config.bind(
     'config-cycle statusbar.show always never;;\
     config-cycle tabs.show always never'
 )
+
+c.completion.shrink = True
